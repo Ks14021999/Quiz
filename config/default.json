@@ -1,0 +1,4 @@
+{
+    "JWT_SECRET": "abc123",
+    "MONGO_URI": "mongodb+srv://ks14:qazwsxedc@mern1.xq4bs.mongodb.net/Quiz?retryWrites=true&w=majority"
+}
